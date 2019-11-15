@@ -1,0 +1,4 @@
+有2次final成绩的学生，用他们的平均值作为final
+只选取参加all 6 seesion的学生作为sample，log里面all 1
+fianl成绩standardize成N(0,1)
+成绩分类 >=60 的是pass, <60 是fail
